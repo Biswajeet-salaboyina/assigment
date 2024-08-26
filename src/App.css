@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-color:lightgray;
+
 }
 
 .App-logo {
@@ -35,4 +37,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.section{
+  padding-left:20px;
+  padding-right:20px;
+}
+
+.widget{
+  background-color: blue;
 }
